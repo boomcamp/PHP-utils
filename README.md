@@ -2,7 +2,7 @@
 
 This Grading utility is built in `python3` and `asyncio` it clones the students `submission` branch it helps PHP instructor to create screenhsots and view the result and source code of students toy problems and activities.
 
-To start clone this repository and create `captures/` and `pulls/` folder, you will need `python3`, `pip3` and `pipenv` installed in your machine.
+To start clone this repository and create `captures/` and `pulls/` folder, you will need `python3`, `pip3` and `pipenv` installed in your machine. you can check [here](https://github.com/boomcamp/setup-pip-pipenv-django-admin-python3) the steps on how to configure a development environment.
 
 ### Proceedures on how to use the utils
 
