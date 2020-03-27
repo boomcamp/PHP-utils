@@ -2,7 +2,7 @@
 
 This Grading utility is built in `python3` and `asyncio` it clones the students `submission` branch it helps PHP instructor to create screenhsots and view the result and source code of students toy problems and activities.
 
-To start clone this repository and create `captures/` and `pulls` folder, you will need `python3`, `pip3` and `pipenv` installed and configured in our machine.
+To start clone this repository and create `captures/` and `pulls/` folder, you will need `python3`, `pip3` and `pipenv` installed in your machine.
 
 ### Proceedures on how to use the utils
 
@@ -11,6 +11,9 @@ To start clone this repository and create `captures/` and `pulls` folder, you wi
 ```
 $jino@mentor ~/utils $  ./install.sh
 ```
+
+this will automatically create the `.env` file that will export in our python virtual environment.
+
 2.) To store submissions to `submission/pulls/` folder type:
 
 ```
