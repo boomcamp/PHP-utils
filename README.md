@@ -6,7 +6,7 @@ To start clone this repository and create `captures/` and `pulls/` folder, you w
 
 ### Proceedures on how to use the utils
 
-1.) To start server update `instal.sh` with your github `username` and `password` then activate virtual environment by typing:
+1.) To start update `instal.sh` with your github `username` and `password` then activate virtual environment by typing:
 
 ```
 $jino@mentor ~/utils $  ./install.sh
