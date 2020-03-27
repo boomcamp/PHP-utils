@@ -10,6 +10,10 @@ echo REPO='boomcamp/PHP-ToyProblems-and-Activity-submissions' >> .env
 mkdir pulls/
 mkdir captures/
 
+# Add full priveledges
+chmod 777 -R pulls/
+chmod 777 -R captures/
+
 # Configure virtual environment
 pipenv install
 pipenv shell
