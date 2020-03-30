@@ -6,7 +6,7 @@ host = "http://localhost:8000/pulls/"
 
 async def main(hosts,locations):
 	"""
-	A function that create screenshots and store to captures/ folder
+	A function that creates screenshots and store to captures/ folder
 	"""
 
 	browser = await launch()
